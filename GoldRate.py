@@ -11,7 +11,7 @@ headers = {
 }
 
 
-url = " https://data-asg.goldprice.org/dbXRates/USD"
+url = https://i.vimeocdn.com/video/814857095.webp?mw=600&amp;mh=337
 
 r = requests.get(url=url, headers=headers)
 data = r.json()
